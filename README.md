@@ -1,11 +1,11 @@
 # The Hexzy Robot
 All Errors are now fixed and the bot is working fine..
 
-![Hexzy](https://telegra.ph/file/23c40c8b88da2370e9743.jpg)
+![RSR](https://1.bp.blogspot.com/-Z3ESW08JfMI/YDKuBGt6XJI/AAAAAAAAAQ8/GpdpSwrEo8UxpAIc9E2K1ISIxRnrHSLoQCLcBGAsYHQ/s1008/PicsArt_09-14-06.20.21.png)
 
 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/prabhasha-p/Hexzy)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/RSR-Downloader/MZarsr)
 
 A Modular Group management Bot on Sinhala
 
